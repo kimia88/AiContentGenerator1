@@ -1,0 +1,72 @@
+{
+    "timestamp": "2025-04-26 03:06:32",
+    "total_content": 35,
+    "average_score": 100.0,
+    "highest_score": 100,
+    "lowest_score": 100,
+    "grade_distribution": {
+        "A": 35,
+        "B": 0,
+        "C": 0,
+        "D": 0,
+        "F": 0
+    },
+    "content_results": [
+        {
+            "content_id": 97,
+            "title": "The Dawn of AI: Ethical Considerations and Shaping a Beneficial Future",
+            "description": "A comprehensive guide to AI ethics and future implications",
+            "seo_score": 100,
+            "grade": "A",
+            "issues": [],
+            "suggestions": [],
+            "keywords": ["ai", "ethics", "future", "technology", "considerations"],
+            "processed_at": "2025-04-26T03:06:32.181"
+        },
+        {
+            "content_id": 98,
+            "title": "Cristiano Ronaldo: A Legends Journey from Madeira to Global Stardom",
+            "description": "The inspiring story of Cristiano Ronaldo's rise to fame",
+            "seo_score": 100,
+            "grade": "A",
+            "issues": [],
+            "suggestions": [],
+            "keywords": ["ronaldo", "football", "legend", "career", "success"],
+            "processed_at": "2025-04-26T03:06:32.193"
+        }
+    ],
+    "improvement_suggestions": [
+        {
+            "priority": 1,
+            "text": "گسترش محتوا: محتوای کوتاه را به حداقل 300 کلمه افزایش دهید"
+        },
+        {
+            "priority": 1,
+            "text": "بهبود ساختار: تگ‌های H1 مناسب اضافه کنید"
+        },
+        {
+            "priority": 1,
+            "text": "بهینه‌سازی عنوان و توضیحات متا: طول مناسب را رعایت کنید"
+        },
+        {
+            "priority": 2,
+            "text": "افزایش کلمات کلیدی: حداقل 3 کلمه کلیدی مرتبط اضافه کنید"
+        },
+        {
+            "priority": 2,
+            "text": "بهبود خوانایی: از جملات کوتاه‌تر و ساده‌تر استفاده کنید"
+        },
+        {
+            "priority": 3,
+            "text": "بهینه‌سازی تصاویر: alt text مناسب اضافه کنید"
+        },
+        {
+            "priority": 3,
+            "text": "بهبود لینک‌ها: لینک‌های داخلی و خارجی مرتبط اضافه کنید"
+        },
+        {
+            "priority": 3,
+            "text": "بهینه‌سازی موبایل: محتوا را برای نمایش در موبایل بهینه کنید"
+        }
+    ]
+} 
